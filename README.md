@@ -1,4 +1,4 @@
-# Swamp Theme for LibreSprite
+# Purple Tint Theme for LibreSprite
 
 ## Installation
 ### 1. Download the zip file or clone the repositori
